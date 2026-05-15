@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "6a0722ed1971d7276fe96cbc",
+    "chapters": 60,
+    "genres": "thriller",
+    "authors": "Stephen King"
+  },
+  {
+    "_id": "6a0722ed14863e0392fd7d6f",
+    "chapters": 40,
+    "genres": "story",
+    "authors": "Neil Gaiman"
+  },
+  {
+    "_id": "6a0722eda1820815c2e6ac7a",
+    "chapters": 60,
+    "genres": "thriller",
+    "authors": "Dan Brown"
+  },
+  {
+    "_id": "6a0722ed4533cfaecbd46f8b",
+    "chapters": 50,
+    "genres": "thriller",
+    "authors": "Neil Gaiman"
+  },
+  {
+    "_id": "6a0722ed19df8520887d0e3a",
+    "chapters": 20,
+    "genres": "thriller",
+    "authors": "Dan Brown"
+  },
+  {
+    "_id": "6a0722edc8d5d01f534d26ff",
+    "chapters": 60,
+    "genres": "story",
+    "authors": "Dan Brown"
+  },
+  {
+    "_id": "6a0722edb8d0dd1dd435b484",
+    "chapters": 45,
+    "genres": "horror",
+    "authors": "Dan Brown"
+  },
+  {
+    "_id": "6a0722ed7ccce768072dde1c",
+    "chapters": 50,
+    "genres": "thriller",
+    "authors": "Stephen King"
+  },
+  {
+    "_id": "6a0722ed9884d8843cca4df8",
+    "chapters": 60,
+    "genres": "horror",
+    "authors": "Neil Gaiman"
+  },
+  {
+    "_id": "6a0722ed7ab990ae516c2d4c",
+    "chapters": 20,
+    "genres": "thriller",
+    "authors": "Neil Gaiman"
+  }
+]
